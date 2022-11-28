@@ -1,6 +1,8 @@
 # ⚡️ Next Test API Routes
 
-[![build](https://github.com/shahradelahi/next-test-api-routes/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/shahradelahi/next-test-api-routes/actions/workflows/gh-pages.yml)
+[![Tests](https://github.com/shahradelahi/next-test-api-routes/actions/workflows/tests.yml/badge.svg)](https://github.com/shahradelahi/next-test-api-routes/actions/workflows/tests.yml)
+[![npm version](https://badge.fury.io/js/next-test-api-routes.svg)](https://badge.fury.io/js/next-test-api-routes)
+[![npm](https://img.shields.io/npm/dt/next-test-api-routes)](https://www.npmjs.com/package/next-test-api-routes)
 
 ## Installation
 
