@@ -1,0 +1,43 @@
+{
+  "name": "next-test-api-routes",
+  "version": "0.0.1",
+  "description": "A Lightweight library for testing Next.js API routes",
+  "author": "Shahrad Elahi <shahrad@litehex.com>",
+  "license": "MIT",
+  "repository": "https://github.com/shahradelahi/next-test-api-routes.git",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.3.1",
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "node-mocks-http": "^1.12.1"
+  },
+  "keywords": [
+    "next",
+    "nextjs",
+    "api",
+    "routes",
+    "testing",
+    "jest",
+    "test"
+  ],
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/shahradelahi/next-test-api-routes/issues",
+    "email": "opensource@litehex.com"
+  },
+  "homepage": "https://github.com/shahradelahi/next-test-api-routes",
+  "readme": "README.md"
+}
