@@ -1,6 +1,6 @@
 {
   "name": "next-test-api-routes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Lightweight library for testing Next.js API routes",
   "author": "Shahrad Elahi <shahrad@litehex.com>",
   "license": "MIT",
